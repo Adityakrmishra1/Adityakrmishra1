@@ -1,10 +1,10 @@
 ## Hi, I'm Aditya kumar mishra ⚡
 
 
- <img width="155" alt="hello!" align="right" src="## Hi, im Aman Kumar Singh ⚡
+ Hi, im Aditya kumar mishra ⚡
 
 
- <img width="155" alt="hello!" align="right" src="https://giffiles.alphacoders.com/956/9562.gif">
+ <img width="155" alt="hello!" align="right" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">
 
 
 <br>
