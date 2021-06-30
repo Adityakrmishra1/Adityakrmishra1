@@ -1,7 +1,7 @@
 <!-- ## Hi, I'm Aditya kumar mishra ⚡ -->
 
 
- Hi, im Aditya kumar mishra ⚡<img align="right" width="100" height="130" alt="GIF" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif">
+ Hi, im Aditya kumar mishra ⚡<img align="right" width="120" height="100" alt="GIF" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif">
 
 
 
