@@ -3,9 +3,6 @@
 
  Hi, im Aditya kumar mishra ⚡<img align="right" width="120" height="100" alt="GIF" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif">
 
-
-
-
 ## About me
 <br>
 - :computer: Competitive Programmer<br>
