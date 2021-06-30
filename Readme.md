@@ -1,16 +1,12 @@
 <!-- ## Hi, I'm Aditya kumar mishra ⚡ -->
 
 
- Hi, im Aditya kumar mishra ⚡
+ Hi, im Aditya kumar mishra ⚡<img align="right" height="165" alt="GIF" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif">
 
 
- <img width="155" alt="hello!" align="right" src="https://media.giphy.com/media/5lAtcHWPAYFdS/giphy.gif">
+
 
 ## About me
-
-<img align="right" height="165" alt="GIF" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif">
-
-
 <br>
 - :computer: Competitive Programmer<br>
 - :rocket: CSE 3rd Year at DSCE bengaluru<br>
