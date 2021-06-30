@@ -1,14 +1,14 @@
-## Hi, I'm Aditya kumar mishra ⚡
+<!-- ## Hi, I'm Aditya kumar mishra ⚡ -->
 
 
  Hi, im Aditya kumar mishra ⚡
 
 
- <img width="155" alt="hello!" align="right" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">
+ <img width="155" alt="hello!" align="right" src="http://gph.is/XHXrDG">
 
 ## About me
 
-<img align="right" height="165" alt="GIF" src="https://media.giphy.com/media/">
+<img align="right" height="165" alt="GIF" src="http://gph.is/1cfWaoT">
 
 
 <br>
