@@ -4,11 +4,11 @@
  Hi, im Aditya kumar mishra ⚡
 
 
- <img width="155" alt="hello!" align="right" src="http://gph.is/XHXrDG">
+ <img width="155" alt="hello!" align="right" src="https://media.giphy.com/media/5lAtcHWPAYFdS/giphy.gif">
 
 ## About me
 
-<img align="right" height="165" alt="GIF" src="http://gph.is/1cfWaoT">
+<img align="right" height="165" alt="GIF" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif">
 
 
 <br>
