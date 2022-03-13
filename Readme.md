@@ -6,6 +6,6 @@
 ## About me
 <br>
 - :computer: Competitive Programmer<br>
-- :rocket: CSE 3rd Year at DSCE bengaluru<br>
+- :rocket: CSE 4th Year at DSCE bengaluru<br>
 - 🌱 I’m currently learning Advance Data Structures and Algorithms.<br> 
 <br><br><br>
