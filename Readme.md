@@ -5,7 +5,8 @@
 
 ## About me
 <br>
+- :computer: Backend Developer (Nodejs) <br>
 - :computer: Competitive Programmer<br>
-- :rocket: CSE 4th Year at DSCE bengaluru<br>
+- :rocket: DSCE'22 <br>
 - 🌱 I’m currently learning Advance Data Structures and Algorithms.<br> 
 <br><br><br>
