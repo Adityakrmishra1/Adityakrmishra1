@@ -5,8 +5,8 @@
 
 ## About me
 <br>
-- :computer: Backend Developer (Nodejs) <br>
+- :computer: Backend Developer (Nodejs MongoDB, Elastic Search etc.) <br>
 - :computer: Competitive Programmer<br>
 - :rocket: DSCE'22 <br>
-- 🌱 I’m currently learning Advance Data Structures and Algorithms.<br> 
+- 🌱 Currently woring as backend Developer (MTS) in a product based company.<br> 
 <br><br><br>
