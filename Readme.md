@@ -8,5 +8,5 @@
 - :computer: Full Stack Developer (Node.js, React.js, Javascript, MongoDB, Elastic Search, Linux etc.) <br>
 - :computer: Competitive Programmer<br>
 - :rocket: DSCE'22 <br>
-- 🌱 Currently working as a Member of Technical Staff (MTS).<br> 
+- 🌱 Currently working as a Backend Developer.<br> 
 <br><br><br>
