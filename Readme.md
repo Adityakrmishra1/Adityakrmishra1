@@ -19,9 +19,7 @@ I'm a passionate Backend Developer from India specializing in building scalable 
 - JavaScript/TypeScript
 - Node.js/Nest.js/Express.js
 - C++
-- React.js
-- Flutter
-
+  
 ### Databases & Tools
 - MongoDB
 - MySQL
